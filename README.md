@@ -11,7 +11,7 @@ Analisar os dados do BDQueimadas do programa queimadas do Instituto Nacional de 
 É o programa de monitoramento da ocorrência de fogo na vegetação criado pelo INPE para a América do sul e central, África e Europa. O **BDQueimada** é o Banco de dados do programa queimadadas do INPE com os dados coletados dos focos de fogo a partir de imagens de satélite .
 
 ## Dataset
-É composto por dados extraídos do BDQueimada de focos de fogo ativo de queimadas e de incêndios florestais detectados por satélite. Foram extraídos os dados compreendendo o período de 01/01/2017 até 24/09/2020 e contém 11953450 registros de focos de fogo.
+É composto por dados extraídos do BDQueimada de focos de fogo ativo de queimadas e de incêndios florestais detectados por satélite. Foram extraídos os dados compreendendo o período de 01/01/2017 até 24/09/2020 contendo 11953450 registros de focos de fogo.
 
 #### Colunas categóricas
 |   Coluna  |                                 Descrição                                |       Exemplo       |
