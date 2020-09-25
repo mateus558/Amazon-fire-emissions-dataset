@@ -1,6 +1,6 @@
 # Análise das queimadas no Brasil
 
-*Trabalho parte da disciplina de Mineração de Dados do PPGCC-UFJF*
+*Trabalho parte da disciplina de Mineração de Dados (2020/2) do PPGCC-UFJF*
 
 ## Objetivo
 
